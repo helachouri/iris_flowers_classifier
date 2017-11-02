@@ -23,7 +23,10 @@ git clone https://github.com/Hamza-El-Achouri/iris_flowers_classifier.git
 cd iris_flowers_classifier
 ```
 
-* Then test the R script `Rscript iris_flowers_classifier.R` 
+* Then test the R script using the command :
+```bash
+Rscript iris_flowers_classifier.R
+```
 
 # Results
 The script uses the iris flowers dataset, which contains 150 observations of iris flowers. There are four columns of measurements of the flowers in centimeters. The fifth column is the species of the flower observed. All observed flowers belong to one of three species.
